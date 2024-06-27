@@ -1,0 +1,11 @@
+Model Information:
+* title:	ChibiAlice_Dance
+* source:	https://sketchfab.com/3d-models/chibialice-dance-52ef31dd48b94fe28c867b7b8fa144b6
+* author:	MOMO_RUI (https://sketchfab.com/hswangrui)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ChibiAlice_Dance" (https://sketchfab.com/3d-models/chibialice-dance-52ef31dd48b94fe28c867b7b8fa144b6) by MOMO_RUI (https://sketchfab.com/hswangrui) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
